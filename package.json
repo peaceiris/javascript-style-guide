@@ -9,7 +9,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "markdownlint-cli": "^0.13.0"
+    "markdownlint-cli": "^0.41.0"
   },
   "scripts": {
     "test": "node_modules/.bin/markdownlint {.,react,css-in-javascript}/*.md -c .markdownlint.json"
